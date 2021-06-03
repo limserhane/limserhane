@@ -4,7 +4,6 @@
 
 - [Butterfly - C++ Logging Library](https://github.com/limserhane/Butterfly)
 
-- [Diffusion - Heightmap 3D Viewer](https://github.com/limserhane/Diffusion)
 
 ## Films
 
