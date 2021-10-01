@@ -3,7 +3,7 @@
 ## Projects
 
 - [Butterfly - C++ Logging Library](https://github.com/limserhane/Butterfly)
-- [Diffusion - 3d visualization tool of the treatment of an image)
+- [Diffusion - 3d visualization tool of the treatment of an image](https://github.com/limserhane/Diffusion)
 - [Rayce - Raycasting engine](https://github.com/limserhane/Rayce) (in development)
 
 ## Films
