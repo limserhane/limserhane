@@ -11,5 +11,10 @@
 
 ## About
 
-- [StackOverflow](https://stackoverflow.com/users/14913991/limserhane)
-- [](contact@limserhane.fr)
+Software engineer student at [ESIEE Paris](https://www.esiee.fr/en)
+
+[StackOverflow](https://stackoverflow.com/users/14913991/limserhane)
+
+## Contact
+
+contact@limserhane.fr
