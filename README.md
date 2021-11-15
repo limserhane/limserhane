@@ -4,7 +4,7 @@
 
 - [Butterfly - C++ Logging Library](https://github.com/limserhane/Butterfly)
 - [Diffusion - 3d visualization tool of the treatment of an image](https://github.com/limserhane/Diffusion)
-- [Path tracing engine](https://github.com/limserhane/PathtracingEngine) (in development)
+- [Path tracing engine](https://github.com/limserhane/PathtracingEngine)
 
 ## Films
 
