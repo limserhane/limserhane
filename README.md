@@ -17,7 +17,7 @@ Software engineer student at [ESIEE Paris](https://www.esiee.fr/en)
 
 [StackOverflow](https://stackoverflow.com/users/14913991/limserhane)
 
-[limserhane.fr](http://www.limserhane.fr) (in development)
+[limserhane.fr](http://www.limserhane.fr)
 
 ## Contact
 
